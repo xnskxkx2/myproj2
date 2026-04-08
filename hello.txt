@@ -1,3 +1,4 @@
-Hello Git
+Hello Gitl
 This line is from fix_conflict branch
-s
+'s' wasn't good at this place.
+I decided to buy juice.
