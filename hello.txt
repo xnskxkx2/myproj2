@@ -1,2 +1,3 @@
 Hello Git
 This line is from fix_conflict branch
+s
